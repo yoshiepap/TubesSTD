@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1703690360 source:d:\dito\coolyeah\perkodingan\c++\std_tubesdatabuku\main.cpp
+	"Penulis.h"
+	"Buku.h"
+	"menu.h"
+
+1703692566 source:d:\dito\coolyeah\perkodingan\c++\std_tubesdatabuku\buku.cpp
+	"buku.h"
+
+1703512249 d:\dito\coolyeah\perkodingan\c++\std_tubesdatabuku\buku.h
+	<iostream>
+
+1703692191 source:d:\dito\coolyeah\perkodingan\c++\std_tubesdatabuku\penulis.cpp
+	"penulis.h"
+	"buku.h"
+
+1703692000 d:\dito\coolyeah\perkodingan\c++\std_tubesdatabuku\penulis.h
+	<iostream>
+
+1703765884 source:d:\dito\coolyeah\perkodingan\c++\std_tubesdatabuku\menu.cpp
+	"buku.h"
+	"penulis.h"
+	"menu.h"
+
+1703739036 d:\dito\coolyeah\perkodingan\c++\std_tubesdatabuku\menu.h
+	<stdio.h>
+	<conio.h>
+
+1703865763 source:c:\users\mukay\onedrive\desktop\kuliah\schweizer-main2\schweizer-main\std_tubesdatabuku\buku.cpp
+	"buku.h"
+
+1703865763 c:\users\mukay\onedrive\desktop\kuliah\schweizer-main2\schweizer-main\std_tubesdatabuku\buku.h
+	<iostream>
+
+1703865763 source:c:\users\mukay\onedrive\desktop\kuliah\schweizer-main2\schweizer-main\std_tubesdatabuku\main.cpp
+	"Penulis.h"
+	"Buku.h"
+	"menu.h"
+
+1703865763 c:\users\mukay\onedrive\desktop\kuliah\schweizer-main2\schweizer-main\std_tubesdatabuku\penulis.h
+	<iostream>
+
+1703865763 c:\users\mukay\onedrive\desktop\kuliah\schweizer-main2\schweizer-main\std_tubesdatabuku\menu.h
+	<stdio.h>
+	<conio.h>
+
+1703954191 source:c:\users\mukay\onedrive\desktop\kuliah\schweizer-main2\schweizer-main\std_tubesdatabuku\menu.cpp
+	"buku.h"
+	"penulis.h"
+	"menu.h"
+
+1703865763 source:c:\users\mukay\onedrive\desktop\kuliah\schweizer-main2\schweizer-main\std_tubesdatabuku\penulis.cpp
+	"penulis.h"
+	"buku.h"
+
